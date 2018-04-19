@@ -1,2 +1,2 @@
-# GameJam
-Weekend Collab with DL Studios
+# GitTest
+Testing the git scenario with the purple one
